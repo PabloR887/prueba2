@@ -1,0 +1,13 @@
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\bin\Debug\netcoreapp3.1\Ejemplo 2 (Switch).exe
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\bin\Debug\netcoreapp3.1\Ejemplo 2 (Switch).deps.json
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\bin\Debug\netcoreapp3.1\Ejemplo 2 (Switch).runtimeconfig.json
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\bin\Debug\netcoreapp3.1\Ejemplo 2 (Switch).runtimeconfig.dev.json
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\bin\Debug\netcoreapp3.1\Ejemplo 2 (Switch).dll
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\bin\Debug\netcoreapp3.1\Ejemplo 2 (Switch).pdb
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\obj\Debug\netcoreapp3.1\Ejemplo 2 (Switch).csprojAssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\obj\Debug\netcoreapp3.1\Ejemplo 2 (Switch).AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\obj\Debug\netcoreapp3.1\Ejemplo 2 (Switch).AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\obj\Debug\netcoreapp3.1\Ejemplo 2 (Switch).csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\obj\Debug\netcoreapp3.1\Ejemplo 2 (Switch).dll
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\obj\Debug\netcoreapp3.1\Ejemplo 2 (Switch).pdb
+C:\Users\pablo\OneDrive\Escritorio\Progra I\Switch\Ejemplo 2 (Switch)\Ejemplo 2 (Switch)\obj\Debug\netcoreapp3.1\Ejemplo 2 (Switch).genruntimeconfig.cache
